@@ -1,0 +1,18 @@
+div{ 
+  height: 500px; 
+  width: 500px; 
+  background-color: rgb(127, 172, 255);
+  border-radius: 50%;
+  margin: 0% auto;
+}
+
+div:hover{
+   background-color: aqua;
+
+}
+
+div:active{
+    width: 250px;
+    height: 250px;
+    background-color: blue ;
+}
